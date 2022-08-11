@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/jorgenengelsen/realease-please-config-test/compare/v1.1.0...v1.1.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* typo in python script ([90d8084](https://github.com/jorgenengelsen/realease-please-config-test/commit/90d808433fc8507ad4eff2da704d9a977e2298e2))
+
 ## [1.1.0](https://github.com/jorgenengelsen/realease-please-config-test/compare/v1.0.0...v1.1.0) (2022-08-11)
 
 
