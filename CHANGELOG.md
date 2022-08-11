@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/jorgenengelsen/realease-please-config-test/compare/v1.0.0...v1.1.0) (2022-08-11)
+
+
+### Features
+
+* a new feature, should bump to 1.1.0 ([b40715c](https://github.com/jorgenengelsen/realease-please-config-test/commit/b40715c8395b94e1b6e3017d4b376604e1957ee9))
+* a new python script ([8095195](https://github.com/jorgenengelsen/realease-please-config-test/commit/8095195648a24d9612e06340cd6da4ac8b68385e))
+
+
+### Bug Fixes
+
+* typo ([5c5326c](https://github.com/jorgenengelsen/realease-please-config-test/commit/5c5326c44b8b297464ea047605eaf9fc1a44e65a))
+
 ## 1.0.0 (2022-08-10)
 
 
